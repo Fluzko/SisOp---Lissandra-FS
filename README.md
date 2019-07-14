@@ -1,1 +1,2 @@
-# SisOp---Lissandra-FS
+# Lissandra FileSystem
+Si estas cursando operativos, te deseo mucha suerte!
